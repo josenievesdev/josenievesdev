@@ -1,4 +1,4 @@
-# José Carlos Nieves Iguarán
+# Jose Carlos Nieves Iguaran
 
 Estudiante de Análisis y Desarrollo de Software en el SENA, próximo a finalizar mi formación.
 
