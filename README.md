@@ -1,31 +1,29 @@
 # Jose Carlos Nieves Iguaran
 
-Estudiante de Análisis y Desarrollo de Software en el SENA, próximo a finalizar mi formación.
+**Desarrollador de software · Aplicaciones web y de escritorio**
 
-Desarrollo aplicaciones web y de escritorio, principalmente orientadas a resolver necesidades de pequeños negocios. He trabajado en proyectos de punto de venta, gestión administrativa, catálogos comerciales y plataformas para servicios.
+Desarrollo aplicaciones que permiten gestionar ventas, organizar información y ofrecer productos y servicios en línea. Trabajo tanto en la interfaz como en la lógica del servidor y las bases de datos.
+
+Mis proyectos incluyen sistemas de punto de venta, catálogos digitales y herramientas de gestión administrativa. Actualmente estoy finalizando mi formación en Análisis y Desarrollo de Software en el SENA.
+
+## Proyectos
+
+### Prismia POS Local
+Aplicación de escritorio que reúne ventas, inventario, caja y compras en un mismo sistema, con gestión de clientes y proveedores.
+
+### Boutique Web
+Catálogo digital con administración de productos e imágenes. Permite a los visitantes seleccionar artículos, agregarlos al carrito y enviar su pedido por WhatsApp.
+
+### TINAI Panel
+Panel para administrar clientes, negocios, instalaciones y licencias de productos de software.
+
+### ServyGo POS
+Sistema en desarrollo para restaurantes y bares, enfocado en la gestión de mesas, cuentas, pagos y caja.
 
 ## Tecnologías
 
-**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Bases de datos:** PostgreSQL, SQLite  
-**Plataformas y herramientas:** Git, GitHub, Supabase, Cloudflare, Railway  
-**Desktop:** Electron
-
-## Proyectos destacados
-
-### Prismia POS Local
-Sistema de punto de venta de escritorio para gestión de ventas, inventario, caja, compras, clientes y proveedores.
-
-### Boutique Web
-Catálogo digital para una boutique, con administración de productos, imágenes, carrito y envío de pedidos mediante WhatsApp.
-
-### TINAI Panel
-Panel administrativo para la gestión de clientes, negocios, instalaciones y licencias de productos de software.
-
-### ServyGo POS
-Sistema full stack en desarrollo orientado a la operación de restaurantes y bares.
-
-## Actualmente
-
-Finalizando mi formación como Tecnólogo en Análisis y Desarrollo de Software en el SENA y fortaleciendo mis conocimientos mediante proyectos prácticos.
+- **Frontend:** React, TypeScript, JavaScript y Tailwind CSS.
+- **Backend:** Node.js y Express.
+- **Bases de datos:** PostgreSQL y SQLite.
+- **Escritorio:** Electron.
+- **Herramientas y plataformas:** Git, GitHub, Supabase, Cloudflare y Railway.
